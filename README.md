@@ -43,3 +43,7 @@ We just expect the people to have the zeal to learn everyday.
 ### Future Plans 
 1. If we as community go well along, we will be contributung to open source for the Hacktober2020 by digital ocean and other companies. 
 2. Connect on Linkdin and create a community of devs who are problem solvers and help others grow!
+
+### Tasks
+## Day 1.
+Github intro. 
