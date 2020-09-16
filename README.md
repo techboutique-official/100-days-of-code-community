@@ -26,10 +26,11 @@ We just expect the people to have the zeal to learn everyday.
 1. Register in the google form  https://forms.gle/VU6kKQttFRP22Shv7 
 2. You will recieve a mail in 1 or 2 days with your confirmation. 
 3. You will recieve your daily set of tasks at or before 11 PM on your mail box. 
-4. Ideally you should complete the task before the next task is sent to you but we will analyse a week's code together on Sunday Morning. 
-5. You will be given a branch name on this repo. Whenever you complete the task , push your changes to your branch only. There should be seperate folders for each day of code. Update your Readme.md file when you make a push, it makes easy for us to evaluate your progress. 
-6. We will also check for Plagiarism , please don't copy code from others. This task is for you to learn and not for any validation from anyone. 
-7. Best codes will be pushed to the develop branch of this coummunity. 
+4. Ideally you should complete the task before the next task is sent to you but we will analyse a week's code together on Sunday Morning.   
+5. Create a fork from the repo and then set the branch to your branch name and do your work there.
+6. You will be given a branch name on this repo. Whenever you complete the task , push your changes to your fork branch only. There should be seperate folders for each day of code. Update your Readme.md file when you make a push, it makes easy for us to evaluate your progress. When you are done with the task, make a pull request to your branch at the main repo, we will analyse it and accept the PR accordingly.  
+7. We will also check for Plagiarism , please don't copy code from others. This task is for you to learn and not for any validation from anyone. 
+8. Best codes will be pushed to the develop branch of this coummunity. 
 
 ## Rules 
 1. No plagiarism 
