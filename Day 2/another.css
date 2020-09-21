@@ -1,0 +1,110 @@
+.introduction {
+    display: flex;
+    grid-template-columns: 1fr;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+.welcome {
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 110px;
+    margin-left: 50px;
+    text-align: center;
+    border-bottom: dotted;
+}
+
+.welcome-image {
+    height: 350px;
+    width: 700px;
+    background-size: cover;
+    background-position: center;
+    border-style: inset;
+    border-color: indigo;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.left-nav {
+    display: flex;
+}
+
+.nav > .left-nav > div {
+    margin-right: 20px;
+    font-size: 0.9em;
+    text-transform: uppercase;
+}
+
+.nav-link {
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+
+.nav-link a {
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.nav-link:hover {
+    border-bottom: 1px solid black;
+}
+
+.nav-link a:hover {
+    color: black;
+}
+
+.brand {
+    border: 1px solid black;
+    border-style: dashed;
+    padding: 5px;
+}
+
+.images-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.images-item {
+    position: relative;
+}
+
+.background-image {
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 5px solid white;
+}
+
+.image-text {
+    text-align: center;
+    text-shadow: black;
+    font-size: 30px;
+}
+
+.define {
+    text-align: center;
+    padding: 100px;
+}
+
+.define-content {
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.define:hover {
+    box-sizing: inherit;
+    background-color: green;
+    background-image: url(img/penguin.jpg);
+}
