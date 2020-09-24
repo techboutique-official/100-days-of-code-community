@@ -1,0 +1,40 @@
+.text-center{
+	background-color:red;  
+    color:white;  
+    padding:4px;  
+    text-align:center;  
+}  
+.tet{
+	background-color:rgb(204, 204, 255);  
+    color:white;  
+    padding:4px;  
+    text-align:center;
+}
+
+}
+
+.container{
+	border:1px solid pink;
+	padding:20px;
+
+}
+
+
+h1,h3,{
+	font-weight: 700;
+    color: #111428;
+}
+
+element.style {
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
