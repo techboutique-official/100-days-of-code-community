@@ -1,0 +1,135 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.container-custom {
+  width: 80% !important;
+  align-items: center;
+  margin: auto;
+  vertical-align: middle;
+}
+
+.nav-bar-margin{
+    margin-top: 50px;
+}
+
+.navbar{
+    background-color: transparent;
+}
+
+.align--items-center{
+    text-align: center;
+    font-size: 18px;;
+}
+
+.counterup-wrapper {
+    display: flex;
+    margin: -20px;
+    flex-wrap: wrap;
+}
+.img-banner{
+    width: 800px !important;
+    height: 670px !important;
+}
+.counterup-wrapper .single-counter {
+    margin: 20px;
+    text-align: center;
+}
+
+.counterup-wrapper .single-counter .count {
+    display: inline-block;
+    font-weight: bold;
+    color: #000000;
+    font-size: 25px;
+    position: relative;
+    padding-right: 15px;
+}
+
+.counterup-wrapper .single-counter .count::after {
+    content: "+";
+    right: 0;
+    position: absolute;
+    top: 50%;
+    font-size: 20px;
+    transform: translateY(-50%);
+}
+
+.counterup-wrapper .single-counter .subtitle {
+    display: block;
+    color: #a38261;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-family: "Futura PT Demi";
+}
+
+.counterup-wrapper .view-more-feature {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    margin: auto;
+}
+
+.margin-top{
+    margin-top: 100px;
+}
+.title{
+    line-height: 66px;
+    font-size: 48px;
+    margin-bottom: 33px;
+    padding-right: 0;
+    font-weight: 500;
+}
+
+a{
+    text-decoration: none;
+}
+
+.align-items-center{
+    text-align: center;
+}
+
+
+.section-title{
+    padding-top: 50px;
+}
+
+.section-title .title {
+    color: #000000;
+    line-height: 66px;
+    font-size: 48px;
+}
+.gallery-title{ 
+    margin-top: 10rem;  
+    text-align: center; 
+    width: 1500px;
+} 
+
+.gallery-title h1{  
+    font-size: 45px;
+} 
+
+.gallery-title h5{  
+    margin-top: 20px;
+    font-size: 20px; 
+    color: #DF9D22;
+} 
+
+.image-row{ 
+    margin-top: 20px; 
+    margin-bottom: 20px;  
+    margin-left: 60px;
+} 
+
+.image-row img { 
+    height: 500px; 
+    width: 600px;
+}
