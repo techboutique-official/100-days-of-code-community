@@ -5,6 +5,8 @@
     -> Basic HTML/CSS.
     -> I created the same content which you guys are given, with my own creation and i try my level best.
 
+    [ changed - As you said i changed the background of body and div and the path of the image.]
+
 # Day 2 and Day 3
 
     -> HTML/CSS.
