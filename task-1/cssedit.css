@@ -1,0 +1,17 @@
+<style>
+	h1,h2,h3{
+        color: forestgreen;
+    }
+	body {
+		background-color: lightblue;
+	}
+	.fl {
+		color: red;
+	}
+	.lm {
+		color:green;
+	}
+	.mn {
+		color:blue;
+	}
+</style>
